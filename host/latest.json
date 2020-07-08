@@ -1,1 +1,23 @@
-20200703A/version.json
+{
+    "version": "1.0.0",
+    "build": "20200703A",
+    "content": {
+        "MeanoLauncher-windows-x64.exe": {
+            "hash": "cee4d9cab31eefcc83133de68f03e74587cd0d324cc2210cfe91a03ff94c88a1",
+            "size": 3143680,
+            "url": [
+                "https://api.meano.net/build/MeanoLauncher/host/20200703A/MeanoLauncher-windows-x64.exe"
+            ],
+            "path": "MeanoLauncher.exe",
+            "type": "executable",
+            "native": true,
+            "system": "windows",
+            "platform": "x64"
+        }
+    },
+    "clean": [
+        "msvcp140.dll",
+        "vcruntime140.dll",
+        "vcruntime140_1.dll"
+    ]
+}

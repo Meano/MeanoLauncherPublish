@@ -1,1 +1,38 @@
-20200705A/version.json
+{
+    "version": "1.6.0",
+    "build": "20200705A",
+    "content": {
+        "Launcher-windows-x64.dll": {
+            "hash": "64559cbc418396f6f2b0a83217a6ead0575273ba54e9efad06c7693b9a826429",
+            "size": 300032,
+            "url": [
+                "https://api.meano.net/build/MeanoLauncher/app/20200705A/Launcher-windows-x64.dll"
+            ],
+            "path": "Launcher.dll",
+            "type": "executable",
+            "native": true,
+            "system": "windows",
+            "platform": "x64"
+        },
+        "Launcher.runtimeconfig.json": {
+            "size": 161,
+            "hash": "24474cc0696d2a527f5635030a43d9b49b0e6993ab4bf01f3c33ec3413303fed",
+            "url": [
+                "https://api.meano.net/build/MeanoLauncher/app/20200705A/Launcher.runtimeconfig.json"
+            ],
+            "path": "Launcher.runtimeconfig.json",
+            "type": "property",
+            "native": false
+        },
+        "Launcher.dll.config": {
+            "size": 627,
+            "hash": "ad391865b67ec203698b3a83e9c88b2392b074934fc559725d97f71f581b295d",
+            "url": [
+                "https://api.meano.net/build/MeanoLauncher/app/20200705A/Launcher.dll.config"
+            ],
+            "path": "Launcher.dll.config",
+            "type": "config",
+            "native": false
+        }
+    }
+}
