@@ -1,13 +1,13 @@
 {
     "version": "1.6.0",
-    "build": "20211205A",
+    "build": "20200811A",
     "content": {
         "Launcher-windows-x64.dll": {
-            "remote-path": "/app/20211205A/Launcher-windows-x64.dll",
-            "hash": "64c99a407c44816b293a7bd7dcf8b8033c18bd0131413f32e3a5b21e7d9d17cf",
-            "size": 321024,
+            "remote-path": "/app/20200811A/Launcher-windows-x64.dll",
+            "hash": "457b313c7a015b9c68407cb065e1354bc9a6827c3cde22ccd0bb8323eaaff297",
+            "size": 316416,
             "url": [
-                "https://api.meano.net/build/MeanoLauncher/app/20211205A/Launcher-windows-x64.dll"
+                "https://api.meano.net/build/MeanoLauncher/app/20200811A/Launcher-windows-x64.dll"
             ],
             "path": "Launcher.dll",
             "type": "executable",
@@ -16,22 +16,22 @@
             "platform": "x64"
         },
         "Launcher.runtimeconfig.json": {
-            "remote-path": "/app/20211205A/Launcher.runtimeconfig.json",
+            "remote-path": "/app/20200811A/Launcher.runtimeconfig.json",
             "size": 161,
             "hash": "24474cc0696d2a527f5635030a43d9b49b0e6993ab4bf01f3c33ec3413303fed",
             "url": [
-                "https://api.meano.net/build/MeanoLauncher/app/20211205A/Launcher.runtimeconfig.json"
+                "https://api.meano.net/build/MeanoLauncher/app/20200811A/Launcher.runtimeconfig.json"
             ],
             "path": "Launcher.runtimeconfig.json",
             "type": "property",
             "native": false
         },
         "Launcher.dll.config": {
-            "remote-path": "/app/20211205A/Launcher.dll.config",
-            "size": 622,
-            "hash": "4c865a846f24d90a699010f495a1f7a3a302966f37e86a0563e1d3f00bd3b8e0",
+            "remote-path": "/app/20200811A/Launcher.dll.config",
+            "size": 627,
+            "hash": "ad391865b67ec203698b3a83e9c88b2392b074934fc559725d97f71f581b295d",
             "url": [
-                "https://api.meano.net/build/MeanoLauncher/app/20211205A/Launcher.dll.config"
+                "https://api.meano.net/build/MeanoLauncher/app/20200811A/Launcher.dll.config"
             ],
             "path": "Launcher.dll.config",
             "type": "config",
