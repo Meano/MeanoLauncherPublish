@@ -1,0 +1,39 @@
+{
+    "version": "6.0.1",
+    "build": "20211216A",
+    "content": {
+        "Microsoft.NETCore.App.Host-windows-x64-6.0.1.7z": {
+            "remote-path": "/runtime/dotnet/",
+            "runtime-version": "6.0.1",
+            "hash": "e9087e206fb55657f45798c82bb143d29c25f8ec7106bfc4811a78105c9b5a99",
+            "size": 133273,
+            "path": "\\dotnet\\host\\fxr\\",
+            "type": "runtime",
+            "native": true,
+            "system": "windows",
+            "platform": "x64"
+        },
+        "Microsoft.NETCore.App-windows-x64-6.0.1.7z": {
+            "remote-path": "/runtime/dotnet/",
+            "runtime-version": "6.0.1",
+            "hash": "5f18a0e1141189273f7311ef3eeec1a5d953f192de44fa2744f8db036e00bd6c",
+            "size": 22252647,
+            "path": "\\dotnet\\shared\\Microsoft.NETCore.App\\",
+            "type": "runtime",
+            "native": true,
+            "system": "windows",
+            "platform": "x64"
+        },
+        "Microsoft.WindowsDesktop.App-windows-x64-6.0.1.7z": {
+            "remote-path": "/runtime/dotnet/",
+            "runtime-version": "6.0.1",
+            "hash": "dd9bb29be8393e9ad8c0b1a4bd4373071076fa634a9cb6d8dee5ce39e643b471",
+            "size": 24045532,
+            "path": "\\dotnet\\shared\\Microsoft.WindowsDesktop.App\\",
+            "type": "runtime",
+            "native": true,
+            "system": "windows",
+            "platform": "x64"
+        }
+    }
+}

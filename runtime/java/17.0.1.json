@@ -1,0 +1,17 @@
+{
+    "version": "17.0.1",
+    "build": "20211216A",
+    "content": {
+        "java-windows-x64-17.0.1.7z": {
+            "remote-path": "/runtime/java/",
+            "runtime-version": "17.0.1",
+            "hash": "a986654dfd1cf1d2d6ad2fc3dbc36d99f6ec1232c76550b229e2684306b09426",
+            "size": 35199245,
+            "path": "\\java\\",
+            "type": "runtime",
+            "native": true,
+            "system": "windows",
+            "platform": "x64"
+        }
+    }
+}
