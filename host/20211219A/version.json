@@ -6,9 +6,6 @@
             "remote-path": "/host/20211219A/",
             "hash": "ab1e1659cbfa26aa33e9eb0ae8cd0b5c25041a1f86bebf98f2fdcce93244a82f",
             "size": 2578432,
-            "url": [
-                "https://api.meano.net/build/MeanoLauncher/host/20211219A/MeanoLauncher-windows-x64.exe"
-            ],
             "path": "MeanoLauncher.exe",
             "type": "executable",
             "native": true,
